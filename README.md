@@ -17,9 +17,9 @@ This repository contains replication code for the paper, "Social Catalysts: Char
     journal = {Proc. ACM Hum.-Comput. Interact.},
     year = {2021},
     volume = {5},
-    number = {CSCW1},
-    articleno = {20},
-    doi = {10.1145/3434179},
+    number = {CSCW2},
+    articleno = {292},
+    doi = {10.1145/3476023},
     publisher = {Association for Computing Machinery}    
 }
 ```
